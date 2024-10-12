@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://yixiang.com' },
-    { title: '这个网站是怎么来的', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到我的博客', url: 'https://theyixiang.top' },
+    { title: '这个网站是怎么来的', url: 'https://theyixiang.top' }
   ],
 
   // 英雄区左右侧组件颠倒位置
