@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '予思想',
   HEO_HERO_TITLE_2: '一个出口',
   HEO_HERO_TITLE_3: 'TheYiXiang.Top',
-  HEO_HERO_TITLE_4: '关于我',
-  HEO_HERO_TITLE_5: '以及这个网站的由来',
+  HEO_HERO_TITLE_4: '正在加急输出内容中',
+  HEO_HERO_TITLE_5: '广告位招租',
   HEO_HERO_TITLE_LINK: 'https://theyixiang.top',
 
   // 英雄区显示三个置顶分类
