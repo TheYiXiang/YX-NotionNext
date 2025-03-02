@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://www.theyixiang.top' },
-    { title: '了解网站历程', url: 'https://www.theyixiang.top/article/guide' }
+    { title: '了解网站历程', url: 'https://www.theyixiang.top/guide' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -54,7 +54,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://github.com/TheYiXiang',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://www.theyixiang.top',
-  HEO_INFO_CARD_TEXT3: '了解更多',
+  HEO_INFO_CARD_TEXT3: '回到主页',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
